@@ -14,10 +14,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/smallstep/pkcs7"
+	"github.com/ploynomail/pkcs7"
 
-	"github.com/smallstep/scep/cryptoutil"
-	"github.com/smallstep/scep/x509util"
+	"github.com/ploynomail/scep/cryptoutil"
+	"github.com/ploynomail/scep/x509util"
 )
 
 // errors

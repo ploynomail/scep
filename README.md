@@ -3,17 +3,17 @@
 `scep` is a Golang implementation of the Simple Certificate Enrollment Protocol (SCEP).
 
 This package started its life as part of [micromdm/scep](https://github.com/micromdm/scep). 
-The core SCEP protocol was extracted from it and is now being maintained by [smallstep](https://smallstep.com).
+The core SCEP protocol was extracted from it and is now being maintained by [ploynomail](https://ploynomail.com).
 
 ## Usage
 
 ```console
-go get github.com/smallstep/scep
+go get github.com/ploynomail/scep
 ```
 
 The package can be used for both client and server operations.
 
-For detailed usage, see the [Go Reference](https://pkg.go.dev/github.com/smallstep/scep).
+For detailed usage, see the [Go Reference](https://pkg.go.dev/github.com/ploynomail/scep).
 
 Example server:
 

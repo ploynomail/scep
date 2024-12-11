@@ -20,8 +20,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/smallstep/scep"
-	"github.com/smallstep/scep/cryptoutil"
+	"github.com/ploynomail/scep"
+	"github.com/ploynomail/scep/cryptoutil"
 )
 
 type testLogger struct {
